@@ -1,6 +1,10 @@
 # Multiple-AppRAM-Limiter
 friendly pancake
 
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.sstatic.net/RJj4x.png](https://cdn.linava.cloud/upload/file77.png)">
+</p>
+
 ### [Download](https://cdn.linava.cloud/upload/RAMLimiter.exe)
 
 ## Requirements
